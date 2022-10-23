@@ -1,6 +1,8 @@
 # TubesPemrogramanMobile
 
-Tugas Pemrograman Mobile (Tugas Besar) Kelompok 1
+Tugas Pemrograman Mobile (Tugas Besar) Kelompok 1 :
+<br>
+<br>
 <br>
 PUTRI LAURA LATERSIA BR. L. TOBING (191402042)
 <br>
